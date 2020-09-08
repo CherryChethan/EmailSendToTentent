@@ -6,6 +6,7 @@
     "CredentialManagement": "[1.0.2]",
     "UiPath.Credentials.Activities": "[1.1.6479.13204]",
     "UiPath.Excel.Activities": "[2.9.1-preview]",
+    "UiPath.FormActivityLibrary.Contracts": "[1.1.1]",
     "UiPath.GSuite.Activities": "[1.6.0-preview.1]",
     "UiPath.Mail.Activities": "[1.9.1-preview]",
     "UiPath.System.Activities": "[20.8.0-preview]",
